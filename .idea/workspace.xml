@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d468be8c-2921-444e-adbd-f5c5c5f5ec5e" name="Changes" comment="update ADSM notebook with detailed analysis of medical insurance costs, including statistical summaries and visualizations for age, BMI, and charges">
+    <list default="true" id="d468be8c-2921-444e-adbd-f5c5c5f5ec5e" name="Changes" comment="Versión final, antes del borrado de las celdas de prueba.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Notebooks/ADSM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/ADSM.ipynb" afterDir="false" />
     </list>
@@ -90,7 +90,8 @@
       <workItem from="1765125508645" duration="13045000" />
       <workItem from="1765220149335" duration="3836000" />
       <workItem from="1765291262285" duration="20010000" />
-      <workItem from="1765375398752" duration="6095000" />
+      <workItem from="1765375398752" duration="7914000" />
+      <workItem from="1765383395550" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project files for medical insurance cost analysis">
       <option name="closed" value="true" />
@@ -116,17 +117,37 @@
       <option name="project" value="LOCAL" />
       <updated>1765152552397</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Versión final, antes del borrado de las celdas de prueba.">
+      <option name="closed" value="true" />
+      <created>1765381596099</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381596099</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add initial project files for medical insurance cost analysis" />
     <MESSAGE value="add Jupyter notebook for exploratory analysis of medical insurance costs" />
     <MESSAGE value="update ADSM notebook with detailed analysis of medical insurance costs, including statistical summaries and visualizations for age, BMI, and charges" />
-    <option name="LAST_COMMIT_MESSAGE" value="update ADSM notebook with detailed analysis of medical insurance costs, including statistical summaries and visualizations for age, BMI, and charges" />
+    <MESSAGE value="Versión final, antes del borrado de las celdas de prueba." />
+    <option name="LAST_COMMIT_MESSAGE" value="Versión final, antes del borrado de las celdas de prueba." />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
