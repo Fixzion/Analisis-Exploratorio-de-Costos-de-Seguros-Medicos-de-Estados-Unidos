@@ -32,8 +32,7 @@ Uno de los hallazgos más críticos del proyecto fue identificar que el Índice 
 * En **Fumadores**, el BMI se convierte en un multiplicador de riesgo masivo, con una correlación lineal muy fuerte ($R \approx 0.81$).
 * **Conclusión:** La obesidad es financieramente crítica *principalmente* cuando se combina con el tabaquismo.
 
-![04_IMC(BMI)_vs._Cargos_scatterplot.png](Visualizaciones/04_IMC%28BMI%29_vs._Cargos_scatterplot.png)
-
+![03_IMC(BMI)_vs._Cargos_scatterplot.png](Visualizaciones/03_IMC%28BMI%29_vs._Cargos_scatterplot.png)
 ### 3. Justificación de Disparidades Regionales
 Se descubrió que la región **Southeast** es la más costosa. Sin embargo, el análisis de descomposición reveló que esto no se debe a la ubicación geográfica, sino a la demografía de sus habitantes:
 * El Sureste tiene la mayor tasa de fumadores (**25%** vs ~18% en otras zonas).
@@ -42,7 +41,7 @@ Se descubrió que la región **Southeast** es la más costosa. Sin embargo, el a
 ### 4. Anomalía en Familias Numerosas (Subsidios)
 El análisis de la variable `children` mostró una tendencia no lineal. Los costos suben con 1, 2 y 3 hijos, pero **caen significativamente** para familias con 4 o 5 hijos. Esto sugiere la existencia de subsidios gubernamentales o políticas de descuentos por volumen que la aseguradora debería auditar.
 
-![07_Cargos_vs_Número_Hijos_boxplot.png](Visualizaciones/07_Cargos_vs_N%C3%BAmero_Hijos_boxplot.png)
+![05_Cargos_vs_Número_Hijos_boxplot.png](Visualizaciones/05_Cargos_vs_N%C3%BAmero_Hijos_boxplot.png)
 ---
 
 ## 🛠Herramientas y Tecnologías

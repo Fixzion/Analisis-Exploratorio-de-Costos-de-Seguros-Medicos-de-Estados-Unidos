@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d468be8c-2921-444e-adbd-f5c5c5f5ec5e" name="Changes" comment="Finalizado">
-      <change beforePath="$PROJECT_DIR$/Notebook/ADSM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebook/ADSM.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visualizaciones/01_Tabaquismo_Boxplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visualizaciones/02_Edad_vs_Cargos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visualizaciones/04_IMC(BMI)_vs._Cargos_scatterplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visualizaciones/05_Distribución_Cargos_Región_boxplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visualizaciones/07_Cargos_vs_Número_Hijos_boxplot.png" beforeDir="false" />
-    </list>
+    <list default="true" id="d468be8c-2921-444e-adbd-f5c5c5f5ec5e" name="Changes" comment="Final version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +89,7 @@
       <workItem from="1765291262285" duration="20010000" />
       <workItem from="1765375398752" duration="7914000" />
       <workItem from="1765383395550" duration="761000" />
-      <workItem from="1765384482648" duration="911000" />
+      <workItem from="1765384482648" duration="1061000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project files for medical insurance cost analysis">
       <option name="closed" value="true" />
@@ -163,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765385009971</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Final version">
+      <option name="closed" value="true" />
+      <created>1765385446546</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765385446546</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final version">
+      <option name="closed" value="true" />
+      <created>1765385462308</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765385462308</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +194,8 @@
     <MESSAGE value="update ADSM notebook with detailed analysis of medical insurance costs, including statistical summaries and visualizations for age, BMI, and charges" />
     <MESSAGE value="Versión final, antes del borrado de las celdas de prueba." />
     <MESSAGE value="Finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalizado" />
+    <MESSAGE value="Final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final version" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
