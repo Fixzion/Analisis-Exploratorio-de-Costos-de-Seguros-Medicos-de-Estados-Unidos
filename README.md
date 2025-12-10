@@ -43,7 +43,6 @@ Se descubrió que la región **Southeast** es la más costosa. Sin embargo, el a
 El análisis de la variable `children` mostró una tendencia no lineal. Los costos suben con 1, 2 y 3 hijos, pero **caen significativamente** para familias con 4 o 5 hijos. Esto sugiere la existencia de subsidios gubernamentales o políticas de descuentos por volumen que la aseguradora debería auditar.
 
 ![07_Cargos_vs_Número_Hijos_boxplot.png](Visualizaciones/07_Cargos_vs_N%C3%BAmero_Hijos_boxplot.png)
-
 ---
 
 ## 🛠Herramientas y Tecnologías
