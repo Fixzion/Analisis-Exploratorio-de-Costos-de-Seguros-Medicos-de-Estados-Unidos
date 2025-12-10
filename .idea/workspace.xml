@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d468be8c-2921-444e-adbd-f5c5c5f5ec5e" name="Changes" comment="Versión final, antes del borrado de las celdas de prueba." />
+    <list default="true" id="d468be8c-2921-444e-adbd-f5c5c5f5ec5e" name="Changes" comment="Versión final, antes del borrado de las celdas de prueba.">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +91,8 @@
       <workItem from="1765220149335" duration="3836000" />
       <workItem from="1765291262285" duration="20010000" />
       <workItem from="1765375398752" duration="7914000" />
-      <workItem from="1765383395550" duration="705000" />
+      <workItem from="1765383395550" duration="761000" />
+      <workItem from="1765384482648" duration="467000" />
     </task>
     <task id="LOCAL-00001" summary="add initial project files for medical insurance cost analysis">
       <option name="closed" value="true" />
@@ -138,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765384049960</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Versión final, antes del borrado de las celdas de prueba.">
+      <option name="closed" value="true" />
+      <created>1765384152941</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765384152941</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
